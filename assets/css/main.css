@@ -3130,7 +3130,7 @@ input, select, textarea {
 			letter-spacing: 0.075em;
 			line-height: calc(3rem - 4px);
 			margin-left: -2px;
-			min-width: 3rem;
+			min-width: 6rem;
 			position: relative;
 			text-align: center;
 			text-decoration: none;
@@ -3196,7 +3196,7 @@ input, select, textarea {
 		color: #212931 !important;
 	}
 
-		.pagination a:hover {
+		/* .pagination a:hover {
 			color: #18bfef !important;
 			border-color: #18bfef;
 			z-index: 1;
@@ -3213,7 +3213,7 @@ input, select, textarea {
 
 	.pagination span {
 		color: #eeeeee;
-	}
+	} */
 
 /* Wrapper */
 
